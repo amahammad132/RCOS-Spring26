@@ -1,1 +1,4 @@
-# RCOS-Spring26
+- Amaan Mahammad
+- ![Bitmoji Profile Picture](img/bitmoji.jpg "Bitmoji Profile Picture")
+- Graduating 2027
+- Project sub-area: computer algebra system
